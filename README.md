@@ -5,16 +5,18 @@
 - 🎓 Formado em Desenvolvimento de Sistemas.
 - 🎓 Formado em Ciência de Dados.
 - 🔮Atualmente estou em busca de adquirir novas experiências no mundo da Ciência de Dados.
-- 
+
+  
+  <a href="https://instagram.com/maicon_adone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/maiconadone" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:adonetecnologia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maiconadone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ##
 
 <div style="display: inline_block"><br>
-        
-          
-           
-          
-  
-  
+
   <img align="center" alt="Maicon-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Maicon-DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
   <img align="center" alt="Maicon-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,10 +30,12 @@
   <img align="center" alt="Maicon-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Maicon-Wordpress" height="40" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=ffffff">
   
-  
-  
 </div>
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaiconAdone&bg_color=371f2b&color=f6f6f9&line=465fc3&point=fdf2fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div> 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

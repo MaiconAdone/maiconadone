@@ -2,8 +2,8 @@
 
 
 - 💼 Trabalho com Análise de Dados.
-- 🎓 Formado em Desenvolvimento de Software.
-- 🎓 Formado em Ciência de Dados.
+- 🎓 Desenvolvimento de Software.
+- 🎓 Ciência de Dados.
 - 🌱 Estudando Big Data.
 - 🔮 Atualmente estou em busca de adquirir novas experiências no mundo da Ciência de Dados.
 

@@ -1,7 +1,7 @@
 # 👋 Salve! Sou Maicon Adone!
 
 
-- 💼 Trabalho com Análise de Dados.
+- 💼 Trabalho como Analista.
 - 🎓 Análise de Dados.
 - 🎓 Ciência de Dados.
 - 🎓 Desenvolvimento de Software.

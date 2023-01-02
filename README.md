@@ -1,7 +1,8 @@
 # 👋 Salve! Sou Maicon Adone!
 
 
-- 💼 Trabalho como Analista.
+- 💼 Trabalho como Analista Operacional.
+- 💼 Marketing Digital.
 - 🎓 Análise de Dados.
 - 🎓 Ciência de Dados.
 - 🎓 Desenvolvimento de Software.

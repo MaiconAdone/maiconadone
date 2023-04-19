@@ -1,10 +1,9 @@
 # 👋 Salve! Sou Maicon Adone!
 
-- 🎓 Análise de Dados.
-- 🎓 Ciência de Dados.
-- 🎓 Desenvolvimento de Software.
-- 🌱 Estudando Big Data.
-- 🔮 Atualmente estou em busca de adquirir novas experiências no mundo da Ciência de Dados.
+-  💾  Engenharia de Dados.
+-  📉  Análise de Dados.
+- 💻  Ciência de Dados.
+- 💿 Desenvolvimento de Software.  
 
   <a href="https://www.linkedin.com/in/maiconadone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/maicon_adone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

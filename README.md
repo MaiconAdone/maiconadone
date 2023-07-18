@@ -1,8 +1,8 @@
 # 👋 Salve! Sou Maicon Adone!
 
--  💾  Engenharia de Dados.
--  📉  Análise de Dados.
-- 💻  Ciência de Dados.
+- 💻  Cientista de Dados.
+- 📉  Analista de Dados.
+- 📈  Business Intelligence.
 - 💿 Desenvolvimento de Software.  
 
   <a href="https://www.linkedin.com/in/maiconadone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

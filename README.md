@@ -1,9 +1,15 @@
-# 👋 Salve! Sou Maicon Adone!
+### 👋 Salve! Sou Maicon Adone!
 
 - 💻  Cientista de Dados.
 - 📉  Analista de Dados.
 - 📈  Business Intelligence.
-- 💿 Desenvolvimento de Software.  
+- 💿 Desenvolvimento de Software.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shades-of-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Mídias Sociais
 
   <a href="https://www.linkedin.com/in/maiconadone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/maicon_adone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,7 +17,7 @@
   <a href = "mailto:adonetecnologia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/maiconadone" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-##
+## Linguagens e Software
 
 <div style="display: inline_block"><br>
 
@@ -32,8 +38,3 @@
 
 ##
 
-<div> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>

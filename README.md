@@ -1,9 +1,8 @@
 ### 👋 Salve! Sou Maicon Adone!
 
+- 📡  Engenheiro de Dados
 - 💻  Cientista de Dados.
-- 📉  Analista de Dados.
 - 📈  Business Intelligence.
-- 💿 Desenvolvimento de Software.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shades-of-purple&show_icons=true)
 

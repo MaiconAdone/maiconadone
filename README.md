@@ -1,6 +1,5 @@
 ### 👋 Salve! Sou Maicon Adone!
 
-- 📡  Engenheiro de Dados
 - 💻  Cientista de Dados.
 - 📈  Business Intelligence.
 
